@@ -1,6 +1,5 @@
 # ✈️ AeroCET – Aeromodelling & UAV Club, CET
 
-![AeroCET Banner](https://aero.cet.ac.in/assets/AeroCET-logo-x3xhCBCh.png)  
 🔗 [**aero.cet.ac.in**](https://aero.cet.ac.in) • 📞 +91 8590443930 | +91 8078945212
 
 ---
