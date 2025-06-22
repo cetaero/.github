@@ -1,70 +1,70 @@
-# AeroCET – The Aeromodelling & UAV Club of CET
+# ✈️ AeroCET – Aeromodelling & UAV Club, CET
 
-![AeroCET Logo](https://aero.cet.ac.in/assets/logo.png)  
-[🌐 Visit Our Website](https://aero.cet.ac.in/)  
-📞 +91 8590443930 | +91 8078945212  
-
----
-
-## 🚀 Our Mission
-
-- Develop innovative **Unmanned Aerial Systems (UAS)** and advanced **aeromodelling** technologies.  
-- Provide **hands-on aerospace experience** to students of College of Engineering, Trivandrum.  
-- Bridge academics with **real-world applications** through research, industry collaboration and competitions.  
-- Inspire and nurture **future aerospace engineers** through learning-by-doing.
+![AeroCET Banner](https://aero.cet.ac.in/assets/AeroCET-logo-x3xhCBCh.png)  
+🔗 [**aero.cet.ac.in**](https://aero.cet.ac.in) • 📞 +91 8590443930 | +91 8078945212
 
 ---
 
-## ✈️ About Us
+## 🚀 Mission & Vision
 
-Founded in **2017** by a group of aeromodelling enthusiasts at **College of Engineering, Trivandrum**, AeroCET has grown into a full-fledged student-driven aerospace innovation lab.
+> _"Engineering flight, empowering students, and pushing boundaries of innovation."_
 
-We specialize in:
-- Designing and manufacturing **Radio-Controlled (RC) aircrafts** and **gliders**.
-- Engaging in **aerodynamic analysis**, **structural optimization**, and **flight testing**.
-- Competing in prestigious national and international **UAV competitions**.
-- Promoting aerospace awareness via workshops, webinars, and outreach events.
-
-We constantly explore new avenues in aircraft design and development, emphasizing continuous improvement and innovation.
+🎯 **Our Goals:**
+- 🔧 Develop **cutting-edge Unmanned Aerial Systems (UAS)** and **aeromodelling** platforms  
+- 🛠️ Provide **hands-on aerospace engineering experience** to students  
+- 🌐 Bridge **academics and real-world applications** through research & industry collaboration  
+- 🎓 Inspire and nurture **future aerospace leaders** through continuous learning and competition
 
 ---
 
-## 💼 What We Do
+## 🛩️ Who We Are
 
-- ✅ RC Aircraft & Glider Design  
-- ✅ Structural & CFD Analysis  
-- ✅ CAD Modelling (SolidWorks, Fusion 360)  
-- ✅ Embedded Systems & Autopilot Integration  
-- ✅ Competition Prototyping (SAE Aero Design, SPARK UAS Challenge, etc.)  
-- ✅ Knowledge Transfer & Mentorship Programs
+Founded in **2017**, AeroCET is the aerospace and UAV innovation team of **College of Engineering, Trivandrum**. What started as a passionate group of RC enthusiasts has grown into a high-performing student team exploring all aspects of aeronautical engineering.
 
----
+### 📌 Focus Areas:
+- RC Aircraft & Glider Design  
+- UAV Systems Integration & Autonomy  
+- Structural Analysis, CFD, and CAD  
+- Competition Prototyping & Flight Testing  
 
-## 👨‍💻 Tech Stack
-
-Our team works with a variety of tools and technologies including:
-
-- **Mechanical**: SolidWorks, Ansys, XFLR5, Fusion 360  
-- **Electronics**: Arduino, Pixhawk, Raspberry Pi, Mission Planner  
-- **Software**: Python, MATLAB, ROS, QGroundControl  
-- **Web & Data**: MERN Stack, Git, Docker *(for internal tools and site maintenance)*
+We believe in **building, flying, failing, and learning**, with every project pushing our limits in design, precision, and creativity.
 
 ---
 
-## 📸 Gallery & Media
+## 🧰 Tech & Tools
 
-Check out our latest builds, competition highlights, and member activities on our  
-[🔗 Website Gallery](https://aero.cet.ac.in/gallery)  
-[📷 Instagram](https://www.instagram.com/aero.cet/)
+| Domain       | Tools & Platforms |
+|--------------|------------------|
+| **Design**   | SolidWorks, Fusion 360, XFLR5 |
+| **Simulation** | ANSYS, MATLAB, AVL |
+| **Embedded** | Arduino, Pixhawk, Raspberry Pi |
+| **Software** | Python, ROS, QGroundControl |
+| **Web Tools** | MERN Stack, Git, Docker |
 
 ---
 
-## 🤝 Contact Us
+## 🏆 Highlights
 
-For collaborations, mentorship, or queries:  
+- 🥇 Winners & finalists in national UAS challenges (e.g., SPARK UAS, SAE Aero Design)
+- 🌍 Hosted and participated in seminars, workshops, and RC airshows
+- 🤝 Collaborated with academic departments and external experts
+- 💡 Designed autonomous UAV prototypes and endurance gliders
+
+---
+
+## 🌐 Explore More
+
+- 📸 [**Gallery**](https://aero.cet.ac.in/gallery)  
+- 📷 [**Instagram**](https://instagram.com/aero.cet)  
+- 📽️ [**YouTube**](https://www.youtube.com/@aerocet)
+
+---
+
+## 📬 Contact Us
+
 📧 **aerocet@cet.ac.in**  
-📱 +91 8590443930 | +91 8078945212
+📱 **+91 8590443930** | **+91 8078945212**
 
 ---
 
-> *AeroCET is where passion for flight meets engineering excellence.*
+> 🛫 _At AeroCET, we don't just build planes—we build engineers._
