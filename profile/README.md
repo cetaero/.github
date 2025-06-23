@@ -1,69 +1,58 @@
-# ✈️ AeroCET – Aeromodelling & UAV Club, CET
+# ✈️ AeroCET – Aeromodelling Club, CET
 
-🔗 [**aero.cet.ac.in**](https://aero.cet.ac.in) • 📞 +91 8590443930 | +91 8078945212
-
----
-
-## 🚀 Mission & Vision
-
-> _"Engineering flight, empowering students, and pushing boundaries of innovation."_
-
-🎯 **Our Goals:**
-- 🔧 Develop **cutting-edge Unmanned Aerial Systems (UAS)** and **aeromodelling** platforms  
-- 🛠️ Provide **hands-on aerospace engineering experience** to students  
-- 🌐 Bridge **academics and real-world applications** through research & industry collaboration  
-- 🎓 Inspire and nurture **future aerospace leaders** through continuous learning and competition
+🔗 [aero.cet.ac.in](https://aero.cet.ac.in)  
+📞 +91 8590443930 | +91 8078945212
 
 ---
 
-## 🛩️ Who We Are
+## 🛠️ About Us
 
-Founded in **2017**, AeroCET is the aerospace and UAV innovation team of **College of Engineering, Trivandrum**. What started as a passionate group of RC enthusiasts has grown into a high-performing student team exploring all aspects of aeronautical engineering.
+**AeroCET** is the official aerotechnical club of the College of Engineering Trivandrum (CET), dedicated to the design, analysis, and testing of custom-built aeromodels.  
+Founded in 2018 by a small group of aeromodelling enthusiasts, the club has evolved into a dynamic team of over 60 members, actively pushing the boundaries of student aerospace innovation.
 
-### 📌 Focus Areas:
+We regularly participate in national-level competitions and contribute to advancements in the field of aviation. At our core, we aim to cultivate hands-on aeromodelling skills and ignite a passion for aerospace engineering among the student community at CET.
+
+---
+
+## 🚀 Vision
+
+> To establish AeroCET as a nationally recognized student-driven center of excellence in aeromodelling and aerospace innovation — fostering a culture where creativity meets engineering, and where CET’s aspiring minds are empowered to shape the future of aviation.
+
+---
+
+## 🎯 Mission
+
+- Design, build, and test innovative, stable, and high-performing aero-models  
+- Excel in national-level aeromodelling competitions and engineering challenges  
+- Inspire and mentor students in aeronautics and related technologies  
+- Collaborate with industry partners to provide real-world exposure and mentorship  
+- Promote a knowledge-sharing ecosystem that emphasizes teamwork, creativity, and technical excellence
+
+---
+
+## 📌 Focus Areas
+
 - RC Aircraft & Glider Design  
 - UAV Systems Integration & Autonomy  
 - Structural Analysis, CFD, and CAD  
 - Competition Prototyping & Flight Testing  
 
-We believe in **building, flying, failing, and learning**, with every project pushing our limits in design, precision, and creativity.
+### 🧠 Embedded Systems & Electronics:
+- Arduino  
+- Pixhawk  
+- Raspberry Pi  
+- SpeedyBee  
+- ESP32  
 
 ---
 
-## 🧰 Tech & Tools
+## 📣 Public Outreach
 
-| Domain       | Tools & Platforms |
-|--------------|------------------|
-| **Design**   | SolidWorks, Fusion 360, XFLR5 |
-| **Simulation** | ANSYS, MATLAB, AVL |
-| **Embedded** | Arduino, Pixhawk, Raspberry Pi |
-| **Software** | Python, ROS, QGroundControl |
-| **Web Tools** | MERN Stack, Git, Docker |
+- Conducts RC plane building workshops for students at school and college levels  
+- Participates in tech expos and outreach events to raise awareness and spark interest in aeromodelling  
+- Offers technical mentorship and resources to those interested in UAVs and aviation  
 
 ---
 
-## 🏆 Highlights
+> _Empowering students to innovate, fly, and lead the future of aviation._
 
-- 🥇 Winners & finalists in national UAS challenges (e.g., SPARK UAS, SAE Aero Design)
-- 🌍 Hosted and participated in seminars, workshops, and RC airshows
-- 🤝 Collaborated with academic departments and external experts
-- 💡 Designed autonomous UAV prototypes and endurance gliders
-
----
-
-## 🌐 Explore More
-
-- 📸 [**Gallery**](https://aero.cet.ac.in/gallery)  
-- 📷 [**Instagram**](https://instagram.com/aero.cet)  
-- 📽️ [**YouTube**](https://www.youtube.com/@aerocet)
-
----
-
-## 📬 Contact Us
-
-📧 **aerocet@cet.ac.in**  
-📱 **+91 8590443930** | **+91 8078945212**
-
----
-
-> 🛫 _At AeroCET, we don't just build planes—we build engineers._
