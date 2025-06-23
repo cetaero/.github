@@ -1,6 +1,5 @@
 # ✈️ AeroCET – Aeromodelling Club, CET
 
-🔗 [aero.cet.ac.in](https://aero.cet.ac.in)  
 📞 +91 8590443930 | +91 8078945212
 
 ---
